@@ -1,5 +1,7 @@
 # bankdrive
 
+repos link: https://gitlab.com/albiemerporte/bankdriv
+
 use "albiemer as superadmin" for creating database and "admin" account, the admin account is to use for adding new account.
 
 ![creating admin account](https://github.com/albiemer/bankdrive/assets/36027987/b26919c1-77b2-419b-92cf-c8a3d9f71b92)
